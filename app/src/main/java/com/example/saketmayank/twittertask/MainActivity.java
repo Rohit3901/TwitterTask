@@ -14,8 +14,8 @@ import com.twitter.sdk.android.core.identity.TwitterLoginButton;
 import io.fabric.sdk.android.Fabric;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String TWITTER_KEY = " A4oev7qy0XstkPB78ITyLppwF";
-    private static final String TWITTER_SECRET = " LqGN8Ui7TwCbkWsKMPEbqQhiDdLHiPHipJ0B8HedPpWXbhuyKe";
+    private static final String TWITTER_KEY = " Twitter Key";//Use Your Twitter Key
+    private static final String TWITTER_SECRET = " Twitter Secret";//Use Your Twitter Secret
     TwitterLoginButton loginButton ;
 
     @Override
